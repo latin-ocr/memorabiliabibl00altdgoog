@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./memorabiliabibl00altdgoog_0015.png"; bbox 0 0 3384 5425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 237 1459 1315 2129">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 237 1459 1315 2129">
+     <span class='ocr_line' id='line_1_1' title="bbox 555 1459 1274 1573; baseline 0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 555 1459 557 1465; x_wconf 76' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 701 1483 763 1573; x_wconf 88' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1271 1516 1274 1523; x_wconf 89' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 237 1602 1315 1821; baseline 0.01 -11"><span class='ocrx_word' id='word_1_4' title='bbox 237 1602 1315 1821; x_wconf 23' lang='lat' dir='ltr'><strong>sslssLloTHEcA*</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 342 1930 1195 2129; baseline 0.004 -89"><span class='ocrx_word' id='word_1_5' title='bbox 342 1930 1195 2129; x_wconf 37' lang='lat' dir='ltr'>DILHERRIANQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 690 2183 761 2253">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 690 2183 761 2253">
+     <span class='ocr_line' id='line_1_4' title="bbox 690 2183 761 2253; baseline 0.028 -2"><span class='ocrx_word' id='word_1_6' title='bbox 690 2183 761 2253; x_wconf 86' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 291 2342 1176 2649">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 291 2342 1176 2649">
+     <span class='ocr_line' id='line_1_5' title="bbox 291 2342 1176 2460; baseline 0.002 -21"><span class='ocrx_word' id='word_1_7' title='bbox 291 2344 569 2443; x_wconf 83' lang='lat' dir='ltr'>AEDIBVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 613 2342 1176 2460; x_wconf 78' lang='lat' dir='ltr'>PAROCHIALIBVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 543 2534 924 2649; baseline 0.005 -32"><span class='ocrx_word' id='word_1_9' title='bbox 543 2534 924 2649; x_wconf 69' lang='lat' dir='ltr'><strong>szssAmes,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1696 5425">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1696 5425">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1696 5425; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1696 5425; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
